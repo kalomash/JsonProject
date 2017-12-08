@@ -1,0 +1,40 @@
+{
+  "student-grades":{
+    "name":"Bugs Bunny",
+    "full-time":true,
+    "courses":[{
+      "name":"Android",
+      "grade":"B"
+    },
+      {
+        "name":"SQLite",
+        "grade":"A"
+      },
+
+      {
+        "name":"Fragment",
+        "grade":"B"
+      },
+
+      {
+        "name":"Activity",
+        "grade":"C"
+      },
+      {
+        "name":"Intent",
+        "grade":"A"
+      },
+      {
+        "name":"JSON",
+        "grade":"D"
+      }
+
+
+
+
+    ]
+
+
+  }
+
+}
